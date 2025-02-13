@@ -1,0 +1,1 @@
+--- title: "ST2195 Assignment 1 - R Script" output: html_document --- ## Introduction This R Markdown file contains the R script that prints all integers between 1 and 10 (including 1 and 10). ## R Script ```{r} print(1:10)
